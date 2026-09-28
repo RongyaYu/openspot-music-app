@@ -1,4 +1,19 @@
 
+必须吹爆一款良心开源音乐播放器——OpenSpot Music🎵
+
+免费、没广告、不用登录，手机电脑全平台都行（Android / iOS / macOS / Windows / Linux），APK 或 DMG 下下来就能听。
+
+核心亮点：
+🔊 无损高音质流媒体，免费无广告，音质一点不打折
+📥 离线下载，断网照听，地铁通勤也不断流
+❤️ 收藏和播放记录自动存，歌单丢不了
+🔄 后台播放，切 App 音乐不停
+🎨 界面干净好看，上手没门槛
+没会员、没推送、没烦人的广告弹窗，就是安安静静听歌。
+想要干净、高品质音乐体验的朋友，这款真值得试试！
+👉 GitHub 开源地址：github.com/BlackHatDevX/o…
+
+
 <div align="center">
   <img src="https://github.com/user-attachments/assets/9f56500d-d950-48c6-a362-bcbc74be88cb" alt="OpenSpot Logo" width="120" />
   <h1>OpenSpot Music</h1>
